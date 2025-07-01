@@ -1,5 +1,3 @@
-Here is your **clean, GitHub-paste-ready `README.md`** for **`prashantsaxe-gesture-controlled-subway-surfer-game`** following your exact structured style:
-
 ```markdown
 # 🖐️ Gesture Controlled Subway Surfer Game
 
