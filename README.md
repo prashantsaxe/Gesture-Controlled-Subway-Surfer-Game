@@ -3,13 +3,6 @@
 Control the **Subway Surfers** game using your **hand gestures in real-time via webcam**! This project uses **MediaPipe, scikit-learn, and OpenCV** to recognize gestures and simulate keyboard presses for controlling actions like moving left/right, jumping, rolling, using the hoverboard, and pausing the game.
 
 ---
-
-## 🎮 Demo
-
-[Click to watch demo video](https://github.com/brij26/Gesture-Controlled-Subway-Surfer-Game/blob/main/output.mp4)
-
----
-
 ## 🚀 Features
 
 * Real-time gesture detection using webcam
