@@ -52,7 +52,7 @@ Control the **Subway Surfers** game using your **hand gestures in real-time via 
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/brij26/Gesture-Controlled-Subway-Surfer-Game.git
+git clone https://github.com/prashantsaxe/Gesture-Controlled-Subway-Surfer-Game.git
 cd gesture-controlled-subway-surfers
 
 # Create a conda environment
